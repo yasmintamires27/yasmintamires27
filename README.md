@@ -1,5 +1,5 @@
 <div>
-  <h1>Prazer, Yasmin Tamires 👋🏾</h1>
+  <h1>Prazer, Yasmin Tamires 👋🏼</h1>
   <p>
     <b>Software Developer </b>
     Belo Horizonte, Minas Gerais, Brasil
