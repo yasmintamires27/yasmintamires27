@@ -26,8 +26,8 @@ Desenvolvedora Full Stack especializada em aplicações web modernas, performát
 
 ## ✨ Projetos em destaque
 
-- [Yasmin Semi Jóias](https://github.com/yasmintamires27/yasmin-semi-joias) – Um projeto criado com muito planejamento e dedicação. Meu site de semi jóias feito com carinho, focado em qualidade, estilo e sofisticação.
-- [Formulário Eletrônico](https://github.com/yasmintamires27/prontuario-eletronico-main) – O formulário eletrônico foi desenvolvido por mim na faculdade, com foco em organização, segurança das informações e usabilidade no contexto da saúde.
+- [Yasmin Semi Jóias](https://github.com/yasmintamires27/yasmin-semi-joias) – Landing page desenvolvida utilizando as linguagens HTML e CSS, com a finalidade de estabelecer o primeiro contato com o cliente, apresentando e divulgando serviços voltados à comercialização de semijoias. 
+- [Formulário Eletrônico](https://github.com/yasmintamires27/prontuario-eletronico-main) – Projeto full stack desenvolvido como requisito para a conclusão do curso de Análise e Desenvolvimento de Sistemas, empregando as tecnologias HTML, CSS e JavaScript no desenvolvimento do frontend, e Node.js na implementação do backend.
 
 
 
